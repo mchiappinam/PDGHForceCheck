@@ -1,0 +1,9 @@
+name: PDGHForceCheck
+main: me.mchiappinam.pdghforcecheck.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/
+commands:
+   fc:
+      description: Info.
+      usage: /<command>
